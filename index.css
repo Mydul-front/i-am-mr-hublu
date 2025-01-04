@@ -1,0 +1,13 @@
+.miran{
+     border: 5px solid rgba(0, 128, 0, 0.483);
+     height:200px;
+     width:50px;
+     margin-top: 30px;
+     padding: 10px;
+     overflow: auto;
+     resize: both;
+
+}
+.mydul{
+     background-image: radial-gradient(circle, green 20px, yellow 30px, blue 10px);
+}
