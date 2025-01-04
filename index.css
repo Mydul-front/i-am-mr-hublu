@@ -11,3 +11,17 @@
 .mydul{
      background-image: radial-gradient(circle, green 20px, yellow 30px, blue 10px);
 }
+.ripti{
+     border:5px solid black;
+     height: 100px;
+     width:100px;
+     padding-top: 50px;
+     margin-top: 40px;
+     background-color: rgba(0, 255, 255, 0.501);
+     text-align: center;
+     background-image: url('mydul.png');
+     background-size: 50px;
+     background-repeat: no-repeat;
+     background-position: center;
+     resize: both;
+}
